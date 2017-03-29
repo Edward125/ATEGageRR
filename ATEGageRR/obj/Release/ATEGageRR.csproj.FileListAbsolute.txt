@@ -1,0 +1,16 @@
+D:\Edward\ATEGageRR\ATEGageRR\obj\Release\ATEGageRR.csproj.ResolveComReference.cache
+D:\Edward\ATEGageRR\ATEGageRR\bin\Release\ATEGageRR.exe
+D:\Edward\ATEGageRR\ATEGageRR\bin\Release\ATEGageRR.pdb
+D:\Edward\ATEGageRR\ATEGageRR\obj\Release\ATEGageRR.Form1.resources
+D:\Edward\ATEGageRR\ATEGageRR\obj\Release\ATEGageRR.Properties.Resources.resources
+D:\Edward\ATEGageRR\ATEGageRR\obj\Release\ATEGageRR.csproj.GenerateResource.Cache
+D:\Edward\ATEGageRR\ATEGageRR\obj\Release\ATEGageRR.exe
+D:\Edward\ATEGageRR\ATEGageRR\obj\Release\ATEGageRR.pdb
+D:\Edward\ATEGageRR1.1\ATEGageRR\obj\Release\ATEGageRR.csproj.ResolveComReference.cache
+D:\Edward\ATEGageRR1.1\ATEGageRR\obj\Release\ATEGageRR.exe
+D:\Edward\ATEGageRR1.1\ATEGageRR\obj\Release\ATEGageRR.pdb
+D:\Edward\ATEGageRR1.1\ATEGageRR\bin\Release\ATEGageRR.exe
+D:\Edward\ATEGageRR1.1\ATEGageRR\bin\Release\ATEGageRR.pdb
+D:\Edward\ATEGageRR1.1\ATEGageRR\obj\Release\ATEGageRR.Form1.resources
+D:\Edward\ATEGageRR1.1\ATEGageRR\obj\Release\ATEGageRR.Properties.Resources.resources
+D:\Edward\ATEGageRR1.1\ATEGageRR\obj\Release\ATEGageRR.csproj.GenerateResource.Cache
