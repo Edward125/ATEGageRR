@@ -35,10 +35,12 @@ namespace ATEGageRR
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             this.Text = "ATE Gage RR Report ,Ver:" + System.Windows.Forms.Application.ProductVersion;
-            if (!checkTime("410CD26EBAC024192F32F455445C4834"))
+            if (!checkTime("B6A86E3557BE34B2CC42E084CB32999E"))
+            //if (!checkTime ("410CD26EBAC024192F32F455445C4834"))
             {
-                MessageBox.Show("軟件已過期,請重新申請授權使用!", "Error");
+                MessageBox.Show("軟件已過期,請重新申請授權使用!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Stop);
                 Environment.Exit(0);
             }
             this.txtExcelTemplate.SetWatermark("雙擊選擇Gage RR Excel 模板");
@@ -74,18 +76,26 @@ namespace ATEGageRR
         {
             DateTime t = Convert.ToDateTime(DES.DesDecrypt(str, "Edward86"));
 
-            if (File.Exists("C:\\Windows\\System32\\" + System.Windows.Forms.Application.ProductName  + ".dll"))
+            string fileFlag = @"C:\Users\" + @Environment.UserName + @"\AppData\Local\"  + System.Windows.Forms.Application.ProductName + ".dll";
+
+            if (File.Exists(fileFlag))
             {
                 return false;
             }
+
             FileInfo[] files = new DirectoryInfo("C:\\").GetFiles();
             int index = 0;
             while (index < files.Length)
             {
                 if (DateTime.Compare(files[index].LastAccessTime, t) > 0)
                 {
-                    FileStream iniStram = File.Create("C:\\Windows\\System32\\" + System.Windows.Forms.Application.ProductName + ".dll");
+                    //
+                    FileStream iniStram = File.Create(fileFlag);
                     iniStram.Close();
+
+                    FileInfo fi = new FileInfo(fileFlag);
+                    fi.Attributes = FileAttributes.Hidden;
+
                     return false;
                 }
                 checked { ++index; }

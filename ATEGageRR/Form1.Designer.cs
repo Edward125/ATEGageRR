@@ -47,8 +47,8 @@
             // 
             // txtExcelTemplate
             // 
-            this.txtExcelTemplate.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.txtExcelTemplate.Location = new System.Drawing.Point(751, 37);
+            this.txtExcelTemplate.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.txtExcelTemplate.Location = new System.Drawing.Point(751, 43);
             this.txtExcelTemplate.Name = "txtExcelTemplate";
             this.txtExcelTemplate.Size = new System.Drawing.Size(354, 25);
             this.txtExcelTemplate.TabIndex = 0;
@@ -58,8 +58,8 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label1.Location = new System.Drawing.Point(631, 40);
+            this.label1.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label1.Location = new System.Drawing.Point(631, 47);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(88, 17);
             this.label1.TabIndex = 1;
@@ -68,10 +68,10 @@
             // 
             // btnGo
             // 
-            this.btnGo.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.btnGo.Location = new System.Drawing.Point(336, 174);
+            this.btnGo.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.btnGo.Location = new System.Drawing.Point(336, 203);
             this.btnGo.Name = "btnGo";
-            this.btnGo.Size = new System.Drawing.Size(260, 33);
+            this.btnGo.Size = new System.Drawing.Size(260, 38);
             this.btnGo.TabIndex = 2;
             this.btnGo.Text = "Create Reports";
             this.btnGo.UseVisualStyleBackColor = true;
@@ -79,8 +79,8 @@
             // 
             // dtpDate
             // 
-            this.dtpDate.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.dtpDate.Location = new System.Drawing.Point(117, 21);
+            this.dtpDate.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.dtpDate.Location = new System.Drawing.Point(117, 24);
             this.dtpDate.Name = "dtpDate";
             this.dtpDate.Size = new System.Drawing.Size(169, 25);
             this.dtpDate.TabIndex = 3;
@@ -95,26 +95,26 @@
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.dtpDate);
-            this.groupBox1.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.groupBox1.Location = new System.Drawing.Point(25, 28);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.groupBox1.Location = new System.Drawing.Point(25, 33);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(305, 184);
+            this.groupBox1.Size = new System.Drawing.Size(305, 215);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "設置";
             // 
             // txtMachine
             // 
-            this.txtMachine.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.txtMachine.Location = new System.Drawing.Point(117, 141);
+            this.txtMachine.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.txtMachine.Location = new System.Drawing.Point(117, 164);
             this.txtMachine.Name = "txtMachine";
             this.txtMachine.Size = new System.Drawing.Size(169, 25);
             this.txtMachine.TabIndex = 11;
             // 
             // txtModel
             // 
-            this.txtModel.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.txtModel.Location = new System.Drawing.Point(117, 104);
+            this.txtModel.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.txtModel.Location = new System.Drawing.Point(117, 121);
             this.txtModel.Name = "txtModel";
             this.txtModel.Size = new System.Drawing.Size(169, 25);
             this.txtModel.TabIndex = 10;
@@ -122,8 +122,8 @@
             // 
             // txtEngineer
             // 
-            this.txtEngineer.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.txtEngineer.Location = new System.Drawing.Point(117, 61);
+            this.txtEngineer.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.txtEngineer.Location = new System.Drawing.Point(117, 71);
             this.txtEngineer.Name = "txtEngineer";
             this.txtEngineer.Size = new System.Drawing.Size(169, 25);
             this.txtEngineer.TabIndex = 9;
@@ -131,8 +131,8 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label5.Location = new System.Drawing.Point(24, 146);
+            this.label5.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label5.Location = new System.Drawing.Point(24, 170);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(60, 17);
             this.label5.TabIndex = 8;
@@ -141,8 +141,8 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label4.Location = new System.Drawing.Point(24, 104);
+            this.label4.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label4.Location = new System.Drawing.Point(24, 121);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(47, 17);
             this.label4.TabIndex = 7;
@@ -151,8 +151,8 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label3.Location = new System.Drawing.Point(24, 63);
+            this.label3.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label3.Location = new System.Drawing.Point(24, 73);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(61, 17);
             this.label3.TabIndex = 6;
@@ -161,8 +161,8 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label2.Location = new System.Drawing.Point(6, 26);
+            this.label2.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label2.Location = new System.Drawing.Point(6, 30);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(108, 17);
             this.label2.TabIndex = 5;
@@ -170,26 +170,29 @@
             // 
             // lstFile
             // 
-            this.lstFile.Font = new System.Drawing.Font("微軟正黑體", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lstFile.Font = new System.Drawing.Font("Microsoft JhengHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lstFile.FormattingEnabled = true;
             this.lstFile.HorizontalScrollbar = true;
             this.lstFile.ItemHeight = 17;
-            this.lstFile.Location = new System.Drawing.Point(336, 38);
+            this.lstFile.Location = new System.Drawing.Point(336, 44);
             this.lstFile.Name = "lstFile";
-            this.lstFile.Size = new System.Drawing.Size(260, 123);
+            this.lstFile.Size = new System.Drawing.Size(260, 140);
             this.lstFile.TabIndex = 5;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(631, 249);
+            this.ClientSize = new System.Drawing.Size(620, 268);
             this.Controls.Add(this.lstFile);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnGo);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtExcelTemplate);
+            this.Font = new System.Drawing.Font("Calibri", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
